@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "JS Mastery",
+  title: "JS Mastery Course",
   description: "JS Mastery Resources",
   other: {
     "theme-color": "#0d1117",
