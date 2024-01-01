@@ -1,6 +1,9 @@
+// import resource from "./resource.schema";
+// import resourcePlaylist from "./resource-playlist.schema";
+
+// export const schemas = [resource, resourcePlaylist];
+
 import resource from "./resource.schema";
 import resourcePlaylist from "./resource-playlist.schema";
 
-const schemas = [resource, resourcePlaylist];
-
-export default schemas;
+export const schemaTypes = [resource, resourcePlaylist];

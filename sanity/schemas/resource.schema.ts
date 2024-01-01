@@ -1,4 +1,4 @@
-const schema = {
+export default {
   name: "resource",
   title: "Resource",
   type: "document",
@@ -48,5 +48,3 @@ const schema = {
     }
   ]
 };
-
-export default schema;

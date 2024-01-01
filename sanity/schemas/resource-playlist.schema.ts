@@ -1,4 +1,4 @@
-const schema = {
+export default {
   name: "resourcePlaylist",
   title: "Resource Playlist",
   type: "document",
@@ -22,5 +22,3 @@ const schema = {
     }
   ]
 };
-
-export default schema;
