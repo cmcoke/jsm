@@ -34,7 +34,7 @@
   }
 
   .heading3 {
-    @apply font-bold sm: text-[32px] sm:leading-[33.6px] text-[28px] leading-[40px] tracking-[-0.25%];
+    /* @apply font-bold sm: text-[32px] sm:leading-[33.6px] text-[28px] leading-[40px] tracking-[-0.25%]; */
   }
 
   .base-regular {
